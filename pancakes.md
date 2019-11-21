@@ -4,7 +4,7 @@ Pancakes are delicious! Let's make them.
 
 # Ingredients 
 - Eggs
-- Flouer
+- Flour
 - Water 
 - Salt
 - Milk 
@@ -19,7 +19,7 @@ Pancakes are delicious! Let's make them.
 - Gooi het in de pan 
 - serveer met tomaten, komkommer, en vegitarische kaas. 
 
-
+# Give up and go to the store
 
 
 - Buy pancacks in the store
